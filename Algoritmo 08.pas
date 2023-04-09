@@ -1,8 +1,8 @@
 Program Algoritmo_08 ;
 
-	{Aluno: Jean Koerich
-	Faça um algoritmo que leia a Massa Atômica de 3 elementos químicos,
-	bem como seus símbolos e quantidade de átomos que formam a molécula.
+	{Aluno: 
+	FaÃ§a um algoritmo que leia a Massa AtÃ´mica de 3 elementos quÃ­micos,
+	bem como seus sÃ­mbolos e quantidade de Ã¡tomos que formam a molÃ©cula.
 	Calcule e escreva a massa molecular}
 	
 	var Quant_Ato_1,Mas_Mol_1,Quant_Ato_2,Mas_Mol_2,Quant_Ato_3,Mas_Mol_3,Massa : real ;
