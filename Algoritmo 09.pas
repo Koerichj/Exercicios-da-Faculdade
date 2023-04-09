@@ -1,8 +1,8 @@
 Program Algoritmo_09 ;
 
-	{Jean Koerich
-	Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno.
-	Considerar que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente}
+	{
+	FaÃ§a um algoritmo que leia as 3 notas de um aluno e calcule a mÃ©dia final deste aluno
+	Considerar que a mÃ©dia Ã© ponderada e que o peso das notas Ã©: 2,3 e 5, respectivamente}
 	
 	var Nota_1,Nota_2,Nota_3, Media: Real;
 	
