@@ -1,7 +1,6 @@
 Program Algoritmo_05 ;
 		
-		// Aluno: Jean Koerich
-		// Faça um algoritmo que leia uma temperatura em graus Celsius
+		// FaÃ§a um algoritmo que leia uma temperatura em graus Celsius
 		// Calcule e escreva a temperatura em Fahrenheit
 		
 		var C, F :Real;
