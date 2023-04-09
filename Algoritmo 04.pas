@@ -1,7 +1,6 @@
 Program Media ;
 
-	//Aluno: Jean Koerich
-	//Fazer um algoritmo que leia 3 notas de um aluno, calcule e escreva  a média
+	//Fazer um algoritmo que leia 3 notas de um aluno, calcule e escreva  a mÃ©dia
 
  	var nota1, nota2, nota3, media :real;
  	
