@@ -1,9 +1,9 @@
 Program Algoritmo_06;
 
-		{Aluno: Jean Koerich
+		{
 		Fazer um algoritmo que leia uma determinada hora e o minuto e
 		informe quantos minutos se passaram no decorrer do dia}
-		
+                
 		var Hora, Min, Tempo :real;
 		
 Begin
