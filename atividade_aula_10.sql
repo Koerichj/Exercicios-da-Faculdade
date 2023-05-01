@@ -14,6 +14,7 @@
 --  ALTER TABLE IF EXISTS public.tbcliente
 --      OWNER to postgres;
 
+-------------------------------------------------------
 
  	--Pratica 6
 --  INSERT INTO public.tbcliente
@@ -42,6 +43,7 @@
 -- 	(2,'Florianópolis','SC'),
 -- 	(3,'Lontras','SC');
 
+-------------------------------------------------------
 
  	--Pratica 7
 SELECT * FROM TBCLIENTE
